@@ -14,7 +14,7 @@
 - 🌱 I’m deepening my expertise in **MLOps, AI Agents, Data Pipeline, and Web Development**
 - ⚡ Fun fact: I have **three cats**—Sushi, Miso, and Milky 
 
----
+
 <!--
 ## 🛠️ Tech Stack & Tools
 
@@ -27,7 +27,7 @@
 | Monitoring | ![AppInsights](https://img.shields.io/badge/Azure_Application_Insights-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) |
 | DevOps | ![AzureDevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white) ![GitHubActions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) |
 -->
----
+
 <!--
 ## 💼 Highlight Projects
 
@@ -39,13 +39,13 @@
 
 > **Tip:** Pin these repos so they appear at the top of your GitHub profile.
 -->
----
+
 <!--
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN) [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:YOUR_EMAIL) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO_URL)
 
----
+
 
 <details>
 <summary>📜 <strong>Résumé & Certifications</strong></summary>
@@ -57,7 +57,7 @@
 
 </details>
 -->
----
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer"/>
