@@ -1,6 +1,6 @@
 <!-- Replace placeholders (e.g. YOUR_NAME, YOUR_USERNAME, YOUR_LINKEDIN, etc.) with your actual details -->
 
-<h1 align="center">Hey there, I'm Jiaming HUANG👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00CADD&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Open+Source+Enthusiast;Lifelong+Learner" alt="Typing SVG"/>
