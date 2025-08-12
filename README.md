@@ -15,7 +15,7 @@
 - ⚡ Fun fact: I have **three cats**—Sushi, Miso, and Milky 
 
 ---
-
+<!--
 ## 🛠️ Tech Stack & Tools
 
 | Category | Stack |
@@ -26,7 +26,7 @@
 | Data | ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![DeltaLake](https://img.shields.io/badge/Delta_Lake-00B3E6?style=for-the-badge&logo=databricks&logoColor=white) |
 | Monitoring | ![AppInsights](https://img.shields.io/badge/Azure_Application_Insights-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) |
 | DevOps | ![AzureDevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white) ![GitHubActions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) |
-
+-->
 ---
 <!--
 ## 💼 Highlight Projects
