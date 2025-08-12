@@ -40,15 +40,6 @@
 > **Tip:** Pin these repos so they appear at the top of your GitHub profile.
 -->
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JiamingHuangHJM&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiamingHuangHJM&layout=compact&hide_border=true&langs_count=8" alt="Top Langs" />
-</div>
-
----
 <!--
 ## 🤝 Connect with Me
 
